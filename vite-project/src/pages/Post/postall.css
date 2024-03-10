@@ -1,0 +1,29 @@
+.allpostsmain{
+   height: calc(100vh-100px);
+   display: flex;
+   
+}
+
+.allpostsleft{
+   height: 100vh;
+   flex:2;
+   display: flex;
+   flex-direction: column;
+}
+.allpostsright{
+   flex: 4;
+   height: 100vh;
+   width: 70%;
+   margin: 1rem;
+   flex-direction: column;
+  
+   
+}
+.posts{
+   display: grid;
+   height: 100vh;
+   overflow: scroll;
+   grid-template-columns: 1fr 1fr;
+   gap: 0rem 1rem;
+   width: 900px;
+}
