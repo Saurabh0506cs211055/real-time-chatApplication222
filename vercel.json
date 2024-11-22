@@ -2,11 +2,13 @@
   "projects": [
     {
       "name": "frontend",
-      "rootDirectory": "apps/frontend"
+      "rootDirectory": "/vite-project"
     },
     {
       "name": "backend",
-      "rootDirectory": "apps/backend"
-    }
+      "rootDirectory": "/api"
+    },{
+      "name":"socket",
+      "rootDirectory":"/socket"
   ]
 }
