@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "frontend",
+      "rootDirectory": "apps/frontend"
+    },
+    {
+      "name": "backend",
+      "rootDirectory": "apps/backend"
+    }
+  ]
+}
