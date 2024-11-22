@@ -9,6 +9,6 @@
       "rootDirectory": "/api"
     },{
       "name":"socket",
-      "rootDirectory":"/socket"
+      "rootDirectory":"/socket"}
   ]
 }
